@@ -1,0 +1,7 @@
+pwntools
+yara-python
+pycryptodome
+keystone-engine
+arc4
+angr
+qiling
