@@ -1,13 +1,17 @@
 # Virtual-Machine
 Quick setup for VM
 
-## Setup
+## Usage
 
 ```bash
 git clone https://github.com/lephuduc/Virtual-Machine
 cd Virtual-Machine
 chmod +x setup.sh
 ./setup.sh
+```
+## Python package
+```bash
+pip install -r requirements.txt
 ```
 ## Optional Tools
 
