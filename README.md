@@ -4,8 +4,8 @@ Quick setup for VM
 ## Usage
 
 ```bash
-git clone https://github.com/lephuduc/Virtual-Machine
-cd vm
+git clone https://github.com/lephuduc/VM-setup
+cd VM-setup
 chmod +x setup.sh
 ./setup.sh
 ```
