@@ -5,7 +5,7 @@ Quick setup for VM
 
 ```bash
 git clone https://github.com/lephuduc/Virtual-Machine
-cd Virtual-Machine
+cd vm
 chmod +x setup.sh
 ./setup.sh
 ```
