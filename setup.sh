@@ -22,3 +22,6 @@ git clone https://github.com/pwndbg/pwndbg
 cd pwndbg
 ./setup.sh
 cd ..
+
+#
+sudo apt install qemu-user -y
